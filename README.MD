@@ -12,7 +12,7 @@ Extract temperature information of 2021-07 from [Estesparkweather](https://www.e
  - [csv](https://docs.python.org/3/library/csv.html)
 
 
-## Download Zip with executable from the [URL]()
+## Download Zip with executable from the [URL](https://drive.google.com/file/d/1-8uGxQQad5NJTeD1j8vtb0FCUhaPh8bz/view?usp=sharing)
 
-Execute ```TestScrapping.exe ```
+Execute ```Scraping.exe ```
 In the same folder you will find a file called ```July_report.csv```
